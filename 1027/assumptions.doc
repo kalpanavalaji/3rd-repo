@@ -1,0 +1,6 @@
+********************Assumptions*************
+define SIZE 20 means number of messages will be 20.
+NMSG means how many messages we want to enqueue or dequeue at a time.
+thread1,thread2 are we are creating 2 threads 1 for enqueue another for dequeue.
+iret1 is return value of thread.
+rear and front are used to inserting and deleting the msgs.
